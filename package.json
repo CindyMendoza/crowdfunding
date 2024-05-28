@@ -1,0 +1,19 @@
+{
+  "name": "crowdfunding-1",
+  "version": "1.0.0",
+  "description": "First node & posgre package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CindyMendoza/crowdfunding.git"
+  },
+  "author": "Laura C, Cindy M, Maday C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CindyMendoza/crowdfunding/issues"
+  },
+  "homepage": "https://github.com/CindyMendoza/crowdfunding#readme"
+}
