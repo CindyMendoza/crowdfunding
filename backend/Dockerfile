@@ -1,0 +1,8 @@
+FROM postgres:latest
+
+ENV POSTGRES_USER=crowdfunding
+ENV POSTGRES_PASSWORD=""
+ENV POSTGRES_DB=crowdfunding
+
+EXPOSE 5432
+

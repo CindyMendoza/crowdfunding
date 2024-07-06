@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CindyMendoza/crowdfunding/issues"
   },
-  "homepage": "https://github.com/CindyMendoza/crowdfunding#readme"
+  "homepage": "https://github.com/CindyMendoza/crowdfunding#readme",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
 }
