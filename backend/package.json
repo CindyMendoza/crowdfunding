@@ -18,5 +18,11 @@
   "homepage": "https://github.com/CindyMendoza/crowdfunding#readme",
   "dependencies": {
     "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "prisma": "^5.16.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
   }
 }
